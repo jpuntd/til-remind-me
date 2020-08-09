@@ -1,10 +1,12 @@
-<script>
+<script lang="ts">
+  import marked from "marked";
   import { onMount } from "svelte";
-  export let url;
-  let text;
+  export let url: string;
+  let text: string;
   onMount(async () => {
-    const md = await fetch(url);
-    text = await md.text();
+    const response = await fetch(url);
+    const md = await response.text();
+    text = marked(md);
   });
   const vote = () => {
     alert("voted");
@@ -12,17 +14,19 @@
 </script>
 
 <style>
-  p {
+  div {
+    margin: 1em 0;
     border: 2px dashed tomato;
     padding: 1em;
     border-radius: 0.5em;
     background-color: lightyellow;
-    white-space: pre-line;
-    word-break: break-word;
+    text-align: left;
   }
 </style>
 
-<div>
-  <p>{text}</p>
+<section>
+  <div>
+    {@html text}
+  </div>
   <button on:click={vote}>vote</button>
-</div>
+</section>

@@ -1,11 +1,9 @@
 <script lang="ts">
   import TilList from "./components/TilList.svelte";
-  export let name: string;
 </script>
 
 <style>
   main {
-    text-align: center;
     padding: 1em;
     max-width: 240px;
     margin: 0 auto;
@@ -26,7 +24,7 @@
 </style>
 
 <main>
-  <h1>Hello {name}!</h1>
+  <h1>Today I learned</h1>
   <TilList />
   <p>
     Visit the
