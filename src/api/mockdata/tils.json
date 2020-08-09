@@ -1,0 +1,82 @@
+[
+  {
+    "name": "add-the-vscode-cli-to-your-path.md",
+    "path": "vscode/add-the-vscode-cli-to-your-path.md",
+    "sha": "91a42493a9f19626f030e05ab84efbefcfa3c787",
+    "size": 603,
+    "url": "https://api.github.com/repos/jbranchaud/til/contents/vscode/add-the-vscode-cli-to-your-path.md?ref=master",
+    "html_url": "https://github.com/jbranchaud/til/blob/master/vscode/add-the-vscode-cli-to-your-path.md",
+    "git_url": "https://api.github.com/repos/jbranchaud/til/git/blobs/91a42493a9f19626f030e05ab84efbefcfa3c787",
+    "download_url": "https://raw.githubusercontent.com/jbranchaud/til/master/vscode/add-the-vscode-cli-to-your-path.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/jbranchaud/til/contents/vscode/add-the-vscode-cli-to-your-path.md?ref=master",
+      "git": "https://api.github.com/repos/jbranchaud/til/git/blobs/91a42493a9f19626f030e05ab84efbefcfa3c787",
+      "html": "https://github.com/jbranchaud/til/blob/master/vscode/add-the-vscode-cli-to-your-path.md"
+    }
+  },
+  {
+    "name": "advance-through-search-results.md",
+    "path": "vscode/advance-through-search-results.md",
+    "sha": "baae477a17d120e3dbf7003f45ea2f69eebcc2dc",
+    "size": 297,
+    "url": "https://api.github.com/repos/jbranchaud/til/contents/vscode/advance-through-search-results.md?ref=master",
+    "html_url": "https://github.com/jbranchaud/til/blob/master/vscode/advance-through-search-results.md",
+    "git_url": "https://api.github.com/repos/jbranchaud/til/git/blobs/baae477a17d120e3dbf7003f45ea2f69eebcc2dc",
+    "download_url": "https://raw.githubusercontent.com/jbranchaud/til/master/vscode/advance-through-search-results.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/jbranchaud/til/contents/vscode/advance-through-search-results.md?ref=master",
+      "git": "https://api.github.com/repos/jbranchaud/til/git/blobs/baae477a17d120e3dbf7003f45ea2f69eebcc2dc",
+      "html": "https://github.com/jbranchaud/til/blob/master/vscode/advance-through-search-results.md"
+    }
+  },
+  {
+    "name": "enable-breadcrumbs-for-version-126-release.md",
+    "path": "vscode/enable-breadcrumbs-for-version-126-release.md",
+    "sha": "6d5a74f140780a026d81d9b9d7a97cebb426807a",
+    "size": 668,
+    "url": "https://api.github.com/repos/jbranchaud/til/contents/vscode/enable-breadcrumbs-for-version-126-release.md?ref=master",
+    "html_url": "https://github.com/jbranchaud/til/blob/master/vscode/enable-breadcrumbs-for-version-126-release.md",
+    "git_url": "https://api.github.com/repos/jbranchaud/til/git/blobs/6d5a74f140780a026d81d9b9d7a97cebb426807a",
+    "download_url": "https://raw.githubusercontent.com/jbranchaud/til/master/vscode/enable-breadcrumbs-for-version-126-release.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/jbranchaud/til/contents/vscode/enable-breadcrumbs-for-version-126-release.md?ref=master",
+      "git": "https://api.github.com/repos/jbranchaud/til/git/blobs/6d5a74f140780a026d81d9b9d7a97cebb426807a",
+      "html": "https://github.com/jbranchaud/til/blob/master/vscode/enable-breadcrumbs-for-version-126-release.md"
+    }
+  },
+  {
+    "name": "open-an-integrated-terminal-window.md",
+    "path": "vscode/open-an-integrated-terminal-window.md",
+    "sha": "7054e7408dc8213d082ec8ba16157f332e3695c7",
+    "size": 345,
+    "url": "https://api.github.com/repos/jbranchaud/til/contents/vscode/open-an-integrated-terminal-window.md?ref=master",
+    "html_url": "https://github.com/jbranchaud/til/blob/master/vscode/open-an-integrated-terminal-window.md",
+    "git_url": "https://api.github.com/repos/jbranchaud/til/git/blobs/7054e7408dc8213d082ec8ba16157f332e3695c7",
+    "download_url": "https://raw.githubusercontent.com/jbranchaud/til/master/vscode/open-an-integrated-terminal-window.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/jbranchaud/til/contents/vscode/open-an-integrated-terminal-window.md?ref=master",
+      "git": "https://api.github.com/repos/jbranchaud/til/git/blobs/7054e7408dc8213d082ec8ba16157f332e3695c7",
+      "html": "https://github.com/jbranchaud/til/blob/master/vscode/open-an-integrated-terminal-window.md"
+    }
+  },
+  {
+    "name": "toggle-between-terminals.md",
+    "path": "vscode/toggle-between-terminals.md",
+    "sha": "6dab2581082e614ea5b7ff28e907fcc1afab4e6a",
+    "size": 760,
+    "url": "https://api.github.com/repos/jbranchaud/til/contents/vscode/toggle-between-terminals.md?ref=master",
+    "html_url": "https://github.com/jbranchaud/til/blob/master/vscode/toggle-between-terminals.md",
+    "git_url": "https://api.github.com/repos/jbranchaud/til/git/blobs/6dab2581082e614ea5b7ff28e907fcc1afab4e6a",
+    "download_url": "https://raw.githubusercontent.com/jbranchaud/til/master/vscode/toggle-between-terminals.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/jbranchaud/til/contents/vscode/toggle-between-terminals.md?ref=master",
+      "git": "https://api.github.com/repos/jbranchaud/til/git/blobs/6dab2581082e614ea5b7ff28e907fcc1afab4e6a",
+      "html": "https://github.com/jbranchaud/til/blob/master/vscode/toggle-between-terminals.md"
+    }
+  }
+]
